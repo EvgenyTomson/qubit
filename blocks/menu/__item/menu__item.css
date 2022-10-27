@@ -1,0 +1,8 @@
+.menu__item {
+  transition: .3s linear .15s;
+}
+
+
+.menu__item:hover {
+  transform: scale(1.2);
+}

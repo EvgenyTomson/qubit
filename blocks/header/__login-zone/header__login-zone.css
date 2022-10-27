@@ -1,0 +1,5 @@
+.header__login-zone {
+  display: flex;
+  gap: 38px;
+  align-items: center;
+}

@@ -1,0 +1,15 @@
+.form__submit {
+  box-sizing: border-box;
+  width: 187px;
+  height: 45px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 21px;
+  /* identical to box height, or 140% */
+  color: #fff;
+  background-color: #6f2cff;
+  border-radius: 0px 27.5px 27.5px 0px;
+  border: 1px solid #6f2cff;
+  cursor: pointer;
+}

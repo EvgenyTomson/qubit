@@ -1,0 +1,10 @@
+.banner__title {
+  margin: 0;
+  margin-top: 19px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 61px;
+  /* identical to box height, or 113% */
+  color: #000;
+}

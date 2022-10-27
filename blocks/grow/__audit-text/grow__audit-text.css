@@ -1,0 +1,8 @@
+.grow__audit-text {
+  margin: 0;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  /* identical to box height, or 200% */
+  color: #000;
+}

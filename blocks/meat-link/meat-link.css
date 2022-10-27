@@ -1,0 +1,17 @@
+.meat-link {
+  display: block;
+  width: 170px;
+  height: 24px;
+  margin: 0 auto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  color: #1c1c1c;
+  cursor: pointer;
+  text-decoration: none;
+
+  border-bottom: 2px solid #6f2cff;
+}

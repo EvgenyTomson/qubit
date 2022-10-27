@@ -1,0 +1,15 @@
+.menu__link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1;
+  color: #1c1c1c;
+  text-decoration: none;
+  cursor: pointer;
+
+  /* transition: .2s linear; */
+}
+
+/* .menu__link:hover {
+  transform: scale(1.2);
+} */

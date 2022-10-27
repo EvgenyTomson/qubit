@@ -1,0 +1,9 @@
+.grow__title {
+  max-width: 400px;
+  margin: 0;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  /* identical to box height, or 112% */
+  color: #1c1c1c;
+}

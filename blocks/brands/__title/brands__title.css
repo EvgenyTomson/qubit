@@ -1,0 +1,10 @@
+.brands__title {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+  text-align: center;
+  color: #1c1c1c;
+}

@@ -1,0 +1,7 @@
+.grow__collum_type_heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 50px;
+  flex-basis: 50%;
+}

@@ -1,0 +1,9 @@
+.banner__subtitle {
+  margin: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.4;
+  /* identical to box height, or 140% */
+  color: #000;
+}

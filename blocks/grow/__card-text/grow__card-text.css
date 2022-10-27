@@ -1,0 +1,10 @@
+.grow__card-text {
+  margin: 0;
+  margin-top: 15px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* identical to box height, or 147% */
+  color: #000;
+}

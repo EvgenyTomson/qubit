@@ -1,0 +1,11 @@
+.banner__text {
+  max-width: 438px;
+  margin: 0;
+  margin-top: 26.5px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* or 167% */
+  color: #000;
+}
