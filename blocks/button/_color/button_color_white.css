@@ -1,0 +1,7 @@
+.button_color_white {
+  width: 187px;
+  color: #6f2cff;
+  background-color: #fff;
+  /* box-shadow: 0px 0px 0px #6F2CFF; */
+  border-radius: 30px;
+}

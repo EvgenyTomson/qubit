@@ -1,0 +1,6 @@
+.industry__card-heading {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}

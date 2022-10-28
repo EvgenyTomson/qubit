@@ -1,9 +1,11 @@
-.grow__audit-text {
+.easy__subtitle {
   margin: 0;
-  margin-bottom: 7px;
+  margin-top: 28px;
+  font-style: normal;
   font-weight: 400;
   font-size: 15px;
   line-height: 30px;
   /* identical to box height, or 200% */
+  text-align: center;
   color: #000;
 }

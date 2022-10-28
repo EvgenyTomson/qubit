@@ -1,0 +1,10 @@
+.industry__cards {
+  max-width: 950px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 30px;
+  padding: 0;
+  margin: 65px auto 0;
+  list-style: none;
+}

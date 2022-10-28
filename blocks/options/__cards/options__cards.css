@@ -1,0 +1,12 @@
+.options__cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  justify-content: center;
+  align-items: center;
+  gap: 95px 80px;
+  padding: 0;
+  margin: 58px auto 0;
+  list-style: none;
+  max-width: 1020px;
+}

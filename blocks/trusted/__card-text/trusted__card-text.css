@@ -1,0 +1,11 @@
+.trusted__card-text {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* or 122% */
+  text-align: center;
+  color: #6f2cff;
+  max-width: 220px;
+  margin: 0;
+}

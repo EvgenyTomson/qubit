@@ -1,0 +1,6 @@
+.ecosystem__column_type_content {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  flex-basis: 46%;
+}

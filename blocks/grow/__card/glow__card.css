@@ -1,4 +1,6 @@
 .glow__card {
   width: 310px;
   height: 220px;
+  padding-left: 16px;
+  border-left: 1px solid #e0e0e0;
 }

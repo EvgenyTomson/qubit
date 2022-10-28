@@ -1,0 +1,17 @@
+.industry__card-text {
+  margin: 0;
+  /* margin-top: 18px; */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* or 147% */
+  color: #fff;
+  max-width: 370px;
+}
+
+.industry__card-text:last-of-type {
+  /* margin-top: 10px; */
+  padding-bottom: 4px;
+  border-bottom: 2px solid #fff;
+}

@@ -1,0 +1,11 @@
+.ai__subtitle {
+  margin: 0;
+  margin-top: 22px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+  text-align: center;
+  color: #000;
+}
