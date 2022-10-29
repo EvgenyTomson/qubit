@@ -158,3 +158,26 @@
 @import url(../blocks/form/_place/form_place_book.css);
 @import url(../blocks/form/__input/_place/form__input_place_book.css);
 @import url(../blocks/form/__submit/_place/form__submit_place_book.css);
+
+/* Socials */
+@import url(../blocks/socials/socials.css);
+@import url(../blocks/socials/__container/socials__container.css);
+@import url(../blocks/socials/__award/socials__award.css);
+@import url(../blocks/socials/__title/socials__title.css);
+@import url(../blocks/socials/__list/socials__list.css);
+@import url(../blocks/socials/__item/socials__item.css);
+@import url(../blocks/socials/__link/socials__link.css);
+@import url(../blocks/socials/__icon/socials__icon.css);
+
+/* Footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__grid/footer__grid.css);
+@import url(../blocks/footer/__column-title/footer__column-title.css);
+@import url(../blocks/footer/__column-title/_last/footer__column-title_last.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__item/footer__item.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__copyright-container/footer__copyright-container.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

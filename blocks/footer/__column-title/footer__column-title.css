@@ -1,0 +1,13 @@
+.footer__column-title {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  /* identical to box height, or 130% */
+  color: #fff;
+}
+
+.footer__column-title:first-of-type {
+  grid-column: 1/3;
+}

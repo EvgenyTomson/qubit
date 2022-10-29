@@ -1,0 +1,12 @@
+.footer__copyright {
+  margin: 0;
+  margin-top: 32px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1;
+  /* line-height: 30px; */
+  /* identical to box height, or 231% */
+  text-align: center;
+  color: #fff;
+}

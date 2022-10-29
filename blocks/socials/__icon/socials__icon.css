@@ -1,0 +1,7 @@
+.socials__icon {
+  transition: .2s linear;
+}
+
+.socials__icon:hover {
+  transform: scale(1.4);
+}

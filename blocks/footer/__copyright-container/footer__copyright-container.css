@@ -1,0 +1,9 @@
+.footer__copyright-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(../../../img/footer/globe.svg);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+}

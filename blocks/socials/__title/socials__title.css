@@ -1,0 +1,11 @@
+.socials__title {
+  margin: 0;
+  margin-top: 29px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 45px;
+  /* identical to box height, or 281% */
+  text-align: center;
+  color: #1c1c1c;
+}
